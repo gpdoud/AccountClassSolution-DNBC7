@@ -21,9 +21,9 @@ namespace AccountClassProject {
             chk1.Deposit(200);
             Console.WriteLine(chk1.Print());
 
-            var acct1 = new Account("Primary Checking", cust1);
-            acct1.Deposit(2);
-            Console.WriteLine(acct1.Print());
+            //var acct1 = new Account("Primary Checking", cust1);
+            //acct1.Deposit(2);
+            //Console.WriteLine(acct1.Print());
 
             //var acct2 = new Account("Secondary Checking", cust1);
             //acct2.Deposit(1000);
